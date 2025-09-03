@@ -2,7 +2,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/dineshraj100/50projects50days/tree/master/1.Expanding_cards)                           | [Demo link]              |
+| 01  | [Expanding Cards](https://github.com/dineshraj100/50projects50days/tree/master/1.Expanding_cards)                           | [Demo link](https://expandingcardsforpsgames.netlify.app/)                        |
 
 ## License
 
